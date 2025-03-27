@@ -1,0 +1,16 @@
+Copyright © 2025 [Your Name or Company Name]
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are the exclusive property of the author. Unauthorized copying, reproduction, distribution, or use of the Software, in whole or in part, is strictly prohibited without the express written permission of the author.
+
+You may:
+- View and inspect the Software for personal and non-commercial purposes.
+
+You may not:
+- Reuse, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software.
+- Use the Software for any commercial purposes without explicit permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+For licensing inquiries or commercial use, please contact the author directly.

@@ -1,0 +1,36 @@
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Log files
+logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Coverage files
+coverage/
+
+# Firebase or Supabase local emulators
+.firebase/
+.supabase/
+
+# Cache
+.cache/
+.next/
+out/
